@@ -11,3 +11,8 @@ Jupyter Notebooks/Workflows:
 
 3. [Build a Canopy Height Model with 3DEP data for user-defined AOI](https://github.com/cmspeed/OT_3DEP_Workflows/blob/main/notebooks/Making_a_Canopy_Height_Model_Using_USGS_3DEP_Data.ipynb)<br/>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmspeed/OT_3DEP_Workflows/blob/main/notebooks/Making_a_Canopy_Height_Model_Using_USGS_3DEP_Data.ipynb)
+
+## Launch in SageMaker Studio Lab
+If you have an AWS SageMaker Studio Lab account, you can open in Studio Lab using the button below, then when prompted, choose to download the whole repo and to build the conda environment.   If you don't have an account, you can [sign up for free](https://studiolab.sagemaker.aws) (no AWS account required).
+
+[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/https://github.com/cmspeed/OT_3DEP_Workflows/blob/main/notebooks/Making_a_Canopy_Height_Model_Using_USGS_3DEP_Data.ipynb)
